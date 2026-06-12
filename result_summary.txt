@@ -1,9 +1,0 @@
-Selected datasets: FAFB, MAOL, MCNS
-Matched neurons: 1999
-Directed induced edges per
-dataset: 1998
-Motif: directed out-star. Row 1 is the source neuron; every other row is a
-leaf.
-
-Verification command:
-python3 src/verify_solution.py
